@@ -1,1 +1,2 @@
-# my_project
+# Ananlysis of GapMinder data
+my_project
